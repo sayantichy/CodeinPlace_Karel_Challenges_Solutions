@@ -1,1 +1,1 @@
-# CodeinPlace_Karel_Challenges_Solutions
+# CodeinPlace-Karel Challenges Solutions
